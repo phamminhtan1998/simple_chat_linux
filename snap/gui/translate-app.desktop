@@ -1,0 +1,8 @@
+  [Desktop Entry]
+  Name=Chat app
+  Comment=Chat app and i love flutter
+  Exec=translate-app
+  Icon=${SNAP}/meta/gui/translate-app.png # replace name to your app name
+  Terminal=false
+  Type=Application
+  Categories=Education; #adjust accordingly your snap category
